@@ -1,0 +1,60 @@
+.purple-color{
+  color: blue;
+}
+
+body{
+  font-family: sans-serif;
+  color: darkblue;
+  line-height: 36px;
+  background-color: white;
+}
+
+.half-width{
+  width: 100%;
+  float: left;
+}
+
+img{
+  border-radius: 50%;
+}
+
+.primary-btn{
+  color:white;
+  background-color: blue;
+  padding: 13px 42px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+h1{
+  font-size: 2.5em; 
+}
+
+.container{
+  padding-left: 5%;
+  display: inline-block;
+}
+
+.experiences{
+  padding: 30px;
+  margin: 30px;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  color: whitesmoke;
+  border-radius: 21px;
+background: #ff0000;
+box-shadow:  -2px -2px 5px whitesmoke,
+             5px 5px 20px whitesmoke;
+}
+
+.experience-item{
+  padding: 10px;
+  border: whitesmoke;
+  line-height: 30px;
+  font-size: 17px;
+  font-family: serif;
+}
+
+.MisterLake{
+  text-align: center;
+}
